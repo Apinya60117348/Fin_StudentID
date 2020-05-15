@@ -1,0 +1,2 @@
+id, name, gpax, phone, gender
+60117348, Apinya Dangprom, 0.00, 0919831850, Fe
